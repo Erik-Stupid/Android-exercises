@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Speech Recognizer</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">History</string>
+    <string name="previous">Back</string>
+    <string name="save">Save Text</string>
+    <string name="texthistory">Text history</string>
+
+
+    <string name="text_to_change">These words wil change if you click that button</string>
+    <string name="change_text">Click to change text</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+
+    <string name="title_activity_settings_menu">SettingsMenu</string>
+
+    <string name="speechContent">Your speech appears here.</string>
+
+    <string name="messages_header">General</string>
+    <string name="sync_header">Sync</string>
+
+    <string name="favorite_fruit">What is your favorite fruit?</string>
+
+    <string name="choose_theme_text">Choose theme</string>
+</resources>

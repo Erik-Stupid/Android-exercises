@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EmployeesFragmentsApp</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In maximus dignissim mauris, et posuere urna auctor ac. Aenean vitae varius turpis. Suspendisse dignissim congue nulla, a sodales turpis interdum non. Morbi risus nisi, placerat sit amet condimentum ut, tempor et sem. Ut at turpis in tortor sagittis tincidunt at ut nisl.\n\nIn ac interdum ligula, ut hendrerit erat. Phasellus egestas fermentum nisi nec sollicitudin. Quisque hendrerit massa non orci tempor, tristique bibendum mauris pellentesque. Mauris ut est vel nibh tempus porttitor sodales nec augue.\n\nProin pulvinar enim id mi luctus, id euismod lorem mattis. Fusce at risus neque. Vivamus imperdiet bibendum risus tincidunt finibus. Sed dignissim ut justo nec malesuada. Etiam neque purus, consequat eu ex sit amet, tempor facilisis justo. Vestibulum velit nisl, volutpat nec massa at, ultrices accumsan risus.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

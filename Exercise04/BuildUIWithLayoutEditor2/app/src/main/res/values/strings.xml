@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BuildUIWithLayoutEditor2</string>
+    <string name="firstname">Firstname</string>
+    <string name="lastname">Lastname</string>
+    <string name="jobtitle">Jobtitle</string>
+    <string name="employee_info">Employee information text here...</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="basic_text">Lorem ipsum dolor sit amet, an eripuit persecuti vel, duo tantas probatus forensibus ex. Expetenda maluisset ex ius, aeque appareat te mel. Mel feugiat volumus constituam te, sumo lucilius ut pri. Magna error nec eu, ex nec libris eloquentiam, invidunt recusabo eam at.  Ex eam molestie noluisse. Vix justo iriure.</string>
+</resources>

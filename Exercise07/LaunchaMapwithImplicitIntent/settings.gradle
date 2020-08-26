@@ -1,0 +1,2 @@
+rootProject.name='Launch a Map with Implicit Intent'
+include ':app'

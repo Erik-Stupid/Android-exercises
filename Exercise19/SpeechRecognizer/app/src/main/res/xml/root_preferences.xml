@@ -1,0 +1,22 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="@string/messages_header">
+
+        <Preference
+            app:key="theme"
+            app:summary="Light, Dark and System Default"
+            app:title="Change Theme" />
+
+        <CheckBoxPreference
+            app:key="checkbox"
+            app:summary="Tap to check if on or off"
+            app:title="Can you read?" />
+
+        <EditTextPreference
+            app:key="signature"
+            app:title="@string/favorite_fruit"
+            app:useSimpleSummaryProvider="true" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
